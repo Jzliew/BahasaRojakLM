@@ -24,6 +24,12 @@ Tiny XLM-R
 ====================
 Tiny XLM-R is a distilled version (43M parameters, 6.5x smaller than XLM-R)  of the official [XLM-R](https://huggingface.co/FacebookAI/xlm-roberta-base) based on Bahasa Rojak corpus. Tiny XLM-R performs better than other currently available small LMs such as mBERT or MelayuBERT on Bahasa Rojak.
 
+<br />
+<br />
+<img src="./figures/TinyXLM-R.png"/>
+<br />
+<br />
+
 
 Step 1: Tokenizer + Embedding layer trimming   `xlmr_trimming.ipynb`
 
