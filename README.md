@@ -9,7 +9,7 @@ Models included:
 ## Results on SentiBahasaRojak
 <br />
 <br />
-<img src="SentiBahasaRojak_result.png"/>
+<img src="./figures/SentiBahasaRojak_result.png"/>
 <br />
 <br />
 
